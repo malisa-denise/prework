@@ -1,0 +1,23 @@
+body {
+    background-color: mistyrose;
+    text-align: center;
+}
+
+.p {
+    font-family: "Baskerville Old Face", serif;
+}
+
+.first {
+    color: black;
+    margin: 15px;
+}
+
+.second {
+    color: black;
+    margin: 15px;
+}
+
+.third {
+    color: black;
+    margin: 15px;
+}
